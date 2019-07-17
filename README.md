@@ -7,7 +7,7 @@ Website Renewal content for IMM Investment
 <br>
 현재 아이엠엠 인베스트먼트 및 아이엠엠 프라이빗에쿼티의 일부 웹사이트 정보가 노후화 되었음.
 <br>
-* Attached below are some content and functional features which could be updated and improved. 
+<h4>Attached below are some content and functional features which could be updated and improved. </h4>
 <br>
 추가 및 보완 될 수 있는 기술적인 부문들을 하단에 기재함. 
 <br>
@@ -26,8 +26,9 @@ Difficulty  | High | Medium | Low
 <br>
 옳게 기재되어 있지 않은 정보 
 <br>
-    >1. Home
-    >2. Company
+    1. Home
+    <br>
+    2. Company
     <br>
     Profile: 
     <br>
@@ -42,6 +43,9 @@ Difficulty  | High | Medium | Low
             Current Website: 74
         <br>
             Should be: 113 (Counted from Portfolio Page, filtered)
-    >3. Portfolio
-    >4. Team
-    >5. Value
+    <br>
+    3. Portfolio
+    <br>
+    4. Team
+    <br>
+    5. Value
