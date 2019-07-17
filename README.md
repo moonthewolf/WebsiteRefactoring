@@ -29,7 +29,11 @@ Difficulty  | High | Medium | Low
 
 URL  | NAME | ISSUE | CURRENT | PROPOSED
 --- | --- | --- | --- | ---
-어려움 | 상| 중 | 하 | a |
+http://imm.co.kr/ | Home| 중 | 하 | a |
+http://imm.co.kr/company/ | Company| 중 | 하 | a |
+http://imm.co.kr/value/ | Value| 중 | 하 | a |
+http://imm.co.kr/team/ | Team| 중 | 하 | a |
+http://imm.co.kr/portfolio/ | Portfolio| 중 | 하 | a |
 
 <br>
     1. Home
@@ -49,9 +53,4 @@ URL  | NAME | ISSUE | CURRENT | PROPOSED
             Current Website: 74
         <br>
             Should be: 113 (Counted from Portfolio Page, filtered)
-    <br>
-    3. Portfolio
-    <br>
-    4. Team
-    <br>
-    5. Value
+
