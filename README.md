@@ -17,14 +17,20 @@ The level of difficulty and implication is categorized as below:
 각 부분의 어려움 및 구체적인 사항들은 아래와 같이 분류함:
 
 Difficulty  | High | Medium | Low 
------------ | --- | --- | ---
-어려움       | 상| 중 | 하 |
+--- | --- | --- | ---
+어려움 | 상| 중 | 하 |
 
 ---
 
 1. Incorrect Information 
 <br>
 옳게 기재되어 있지 않은 정보 
+<br>
+
+URL  | NAME | ISSUE | CURRENT | PROPOSED
+--- | --- | --- | --- | ---
+어려움 | 상| 중 | 하 | a |
+
 <br>
     1. Home
     <br>
