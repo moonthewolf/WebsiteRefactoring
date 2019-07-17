@@ -22,4 +22,6 @@ Difficulty  | High | Medium | Low
 
 ---
 
-1. 
+1. Incorrect Information 
+<br>
+옳게 기재되어 있지 않은 정보 
