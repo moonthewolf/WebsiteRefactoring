@@ -26,9 +26,8 @@ Difficulty  | High | Medium | Low
 <br>
 옳게 기재되어 있지 않은 정보 
 <br>
-    1. Home
-    <br>
-    2. Company
+    >1. Home
+    >2. Company
     <br>
     Profile: 
     <br>
@@ -43,6 +42,6 @@ Difficulty  | High | Medium | Low
             Current Website: 74
         <br>
             Should be: 113 (Counted from Portfolio Page, filtered)
-    3. Portfolio
-    4. Team
-    5. Value
+    >3. Portfolio
+    >4. Team
+    >5. Value
