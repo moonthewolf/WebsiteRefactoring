@@ -7,7 +7,7 @@ Website Renewal content for IMM Investment
 <br>
 현재 아이엠엠 인베스트먼트 및 아이엠엠 프라이빗에쿼티의 일부 웹사이트 정보가 노후화 되었음.
 <br>
-* Attached below are some content and functional features which could be updated and improved. 
+* <h5> Attached below are some content and functional features which could be updated and improved. 
 <br>
 추가 및 보완 될 수 있는 기술적인 부문들을 하단에 기재함. 
 <br>
