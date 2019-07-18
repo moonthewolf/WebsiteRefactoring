@@ -22,16 +22,16 @@ Difficulty  | High | Medium | Low
 ---
 <h3>IMM Investments</h3>
 
-URL  | NAME | ISSUE | CURRENT | PROPOSED | Difficulty | Priority
---- | --- | --- | --- | --- | --- | ---
-http://imm.co.kr/ | Home| Website Footer is outdated | Copyright ⓒ 2016 IMM Investment, Corp. All rights are reserved. | Copyright ⓒ 2019 IMM Investment, Corp. All rights are reserved. | Low | High |
-http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) | Low | High 
-http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) + 1 (Orum Therapeutics?) | Low | High
-http://imm.co.kr/company/ | Company| Number of Venture Capital Funds Under Management | 12 | 8? (The VC) | Low | High
-http://imm.co.kr/company/ | Company| Number of Private Equity Funds Under Management | 13 | 12? (The VC) | Low | High
-http://imm.co.kr/company/ | Company| "Our History" content is a bit outdated and vague | - | - | Low | Medium
-http://imm.co.kr/company/ | Company| "Our History" content UI/design is not user friendly | - | - | Low | Medium
-http://imm.co.kr/value/ | Value| Readability for contents in "Strategy" could be improved  | - | - | Low | High
-http://imm.co.kr/team/ | Team| Add filter for job title and team? | - | - | Medium | low
-http://imm.co.kr/portfolio/ | Portfolio| Missing some recent investments | - | Add Orum Therapeutics | Low | High
-http://imm.co.kr/portfolio/ | Portfolio| Implement better organization for displaying portfolio | - | Add sorting capability | High | High
+URL  | NAME | ISSUE | CURRENT | PROPOSED | Difficulty | Priority | Status
+--- | --- | --- | --- | --- | --- | --- | ---
+http://imm.co.kr/ | Home| Website Footer is outdated | Copyright ⓒ 2016 IMM Investment, Corp. All rights are reserved. | Copyright ⓒ 2019 IMM Investment, Corp. All rights are reserved. | Low | High | COMPLETE
+http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) | Low | High |
+http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) + 1 (Orum Therapeutics?) | Low | High |
+http://imm.co.kr/company/ | Company| Number of Venture Capital Funds Under Management | 12 | 8? (The VC) | Low | High |
+http://imm.co.kr/company/ | Company| Number of Private Equity Funds Under Management | 13 | 12? (The VC) | Low | High |
+http://imm.co.kr/company/ | Company| "Our History" content is a bit outdated and vague | - | - | Low | Medium |
+http://imm.co.kr/company/ | Company| "Our History" content UI/design is not user friendly | - | - | Low | Medium |
+http://imm.co.kr/value/ | Value| Readability for contents in "Strategy" could be improved  | - | - | Low | High |
+http://imm.co.kr/team/ | Team| Add filter for job title and team? | - | - | Medium | low |
+http://imm.co.kr/portfolio/ | Portfolio| Missing some recent investments | - | Add Orum Therapeutics | Low | High |
+http://imm.co.kr/portfolio/ | Portfolio| Implement better organization for displaying portfolio | - | Add sorting capability | High | High |
