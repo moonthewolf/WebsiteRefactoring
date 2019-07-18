@@ -3,7 +3,7 @@ Website Renewal content for IMM Investment
 <br>
 아이엠엠인베스트먼트 웹사이트 재정비
 
-<h4>The current website information for IMM Investment Corp. and IMM PE is a bit outdated. </h4>
+<h4>The current website information for IMM Investment Corp. and IMM PE is partially outdated. </h4>
 현재 아이엠엠 인베스트먼트 및 아이엠엠 프라이빗에쿼티의 일부 웹사이트 정보가 노후화 되었음.
 <br>
 <h4>Attached below are some content and functional features which could be updated and improved. </h4>
@@ -28,11 +28,11 @@ Difficulty  | High | Medium | Low
 
 URL  | NAME | ISSUE | CURRENT | PROPOSED
 --- | --- | --- | --- | ---
-http://imm.co.kr/ | Home| 중 | 하 | a |
-http://imm.co.kr/company/ | Company| 중 | 하 | a |
-http://imm.co.kr/value/ | Value| 중 | 하 | a |
-http://imm.co.kr/team/ | Team| 중 | 하 | a |
-http://imm.co.kr/portfolio/ | Portfolio| 중 | 하 | a |
+http://imm.co.kr/ | Home| - | - | - |
+http://imm.co.kr/company/ | Company| - | - | - |
+http://imm.co.kr/value/ | Value| - | - | - |
+http://imm.co.kr/team/ | Team| - | - | - |
+http://imm.co.kr/portfolio/ | Portfolio| - | - | - |
 
 <br>
     1. Home
