@@ -26,15 +26,16 @@ Difficulty  | High | Medium | Low
 옳게 기재되어 있지 않은 정보 
 <br>
 
-URL  | NAME | ISSUE | CURRENT | PROPOSED
---- | --- | --- | --- | ---
-http://imm.co.kr/ | Home| - | - | - |
-http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) |
-http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) + 1 (Orum Therapeutics?) |
-http://imm.co.kr/company/ | Company| Number of Venture Capital Funds Under Management | 12 | 8? (The VC) |
-http://imm.co.kr/company/ | Company| Number of Private Equity Funds Under Management | 13 | 12? (The VC) |
-http://imm.co.kr/company/ | Company| "Our History" content is a bit outdated and vague | - | - |
-http://imm.co.kr/company/ | Company| "Our History" content UI/design is not user friendly | - | - |
-http://imm.co.kr/value/ | Value| Readability for contents in "Strategy" could be improved  | - | - |
-http://imm.co.kr/team/ | Team| Add filter for job title and team? | - | - |
-http://imm.co.kr/portfolio/ | Portfolio| Missing some recent investments | - | Add Orum Therapeutics |
+URL  | NAME | ISSUE | CURRENT | PROPOSED | Difficulty | Priority
+--- | --- | --- | --- | --- | --- | ---
+http://imm.co.kr/ | Home| - | - | - | - | - |
+http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) | Low | High 
+http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) + 1 (Orum Therapeutics?) | Low | High
+http://imm.co.kr/company/ | Company| Number of Venture Capital Funds Under Management | 12 | 8? (The VC) | Low | High
+http://imm.co.kr/company/ | Company| Number of Private Equity Funds Under Management | 13 | 12? (The VC) | Low | High
+http://imm.co.kr/company/ | Company| "Our History" content is a bit outdated and vague | - | - | Low | Medium
+http://imm.co.kr/company/ | Company| "Our History" content UI/design is not user friendly | - | - | Low | Medium
+http://imm.co.kr/value/ | Value| Readability for contents in "Strategy" could be improved  | - | - | Low | High
+http://imm.co.kr/team/ | Team| Add filter for job title and team? | - | - | Medium | low
+http://imm.co.kr/portfolio/ | Portfolio| Missing some recent investments | - | Add Orum Therapeutics | Low | High
+http://imm.co.kr/portfolio/ | Portfolio| Implement better organization for displaying portfolio | - | Add sorting capability | High | High
