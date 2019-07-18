@@ -3,11 +3,10 @@ Website Renewal content for IMM Investment
 <br>
 아이엠엠인베스트먼트 웹사이트 재정비
 
-* <h5>The current website information for IMM Investment Corp. and IMM PE is a bit outdated.
-<br>
+<h4>The current website information for IMM Investment Corp. is partially outdated. </h4>
 현재 아이엠엠 인베스트먼트 및 아이엠엠 프라이빗에쿼티의 일부 웹사이트 정보가 노후화 되었음.
 <br>
-* Attached below are some content and functional features which could be updated and improved. 
+<h4>Attached below are some content and functional features which could be updated and improved. </h4>
 <br>
 추가 및 보완 될 수 있는 기술적인 부문들을 하단에 기재함. 
 <br>
@@ -17,11 +16,22 @@ The level of difficulty and implication is categorized as below:
 각 부분의 어려움 및 구체적인 사항들은 아래와 같이 분류함:
 
 Difficulty  | High | Medium | Low 
------------ | --- | --- | ---
-어려움       | 상| 중 | 하 |
+--- | --- | --- | ---
+어려움 | 상| 중 | 하 |
 
 ---
+<h3>IMM Investments</h3>
 
-1. Incorrect Information 
-<br>
-옳게 기재되어 있지 않은 정보 
+URL  | NAME | ISSUE | CURRENT | PROPOSED | Difficulty | Priority
+--- | --- | --- | --- | --- | --- | ---
+http://imm.co.kr/ | Home| - | - | - | - | - |
+http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) | Low | High 
+http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) + 1 (Orum Therapeutics?) | Low | High
+http://imm.co.kr/company/ | Company| Number of Venture Capital Funds Under Management | 12 | 8? (The VC) | Low | High
+http://imm.co.kr/company/ | Company| Number of Private Equity Funds Under Management | 13 | 12? (The VC) | Low | High
+http://imm.co.kr/company/ | Company| "Our History" content is a bit outdated and vague | - | - | Low | Medium
+http://imm.co.kr/company/ | Company| "Our History" content UI/design is not user friendly | - | - | Low | Medium
+http://imm.co.kr/value/ | Value| Readability for contents in "Strategy" could be improved  | - | - | Low | High
+http://imm.co.kr/team/ | Team| Add filter for job title and team? | - | - | Medium | low
+http://imm.co.kr/portfolio/ | Portfolio| Missing some recent investments | - | Add Orum Therapeutics | Low | High
+http://imm.co.kr/portfolio/ | Portfolio| Implement better organization for displaying portfolio | - | Add sorting capability | High | High
