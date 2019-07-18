@@ -20,11 +20,9 @@ Difficulty  | High | Medium | Low
 어려움 | 상| 중 | 하 |
 
 ---
+<h3>IMM Investments</h3>
 
-1. Incorrect Information 
-<br>
-옳게 기재되어 있지 않은 정보 
-<br>
+---
 
 URL  | NAME | ISSUE | CURRENT | PROPOSED | Difficulty | Priority
 --- | --- | --- | --- | --- | --- | ---
