@@ -24,7 +24,7 @@ Difficulty  | High | Medium | Low
 
 URL  | NAME | ISSUE | CURRENT | PROPOSED | Difficulty | Priority
 --- | --- | --- | --- | --- | --- | ---
-http://imm.co.kr/ | Home| - | - | - | - | - |
+http://imm.co.kr/ | Home| Website Footer is outdated | Copyright ⓒ 2016 IMM Investment, Corp. All rights are reserved. | Copyright ⓒ 2019 IMM Investment, Corp. All rights are reserved. | Low | High |
 http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) | Low | High 
 http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) + 1 (Orum Therapeutics?) | Low | High
 http://imm.co.kr/company/ | Company| Number of Venture Capital Funds Under Management | 12 | 8? (The VC) | Low | High
