@@ -31,6 +31,10 @@ URL  | NAME | ISSUE | CURRENT | PROPOSED
 http://imm.co.kr/ | Home| - | - | - |
 http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) |
 http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) |
+http://imm.co.kr/company/ | Company| Number of Venture Capital Funds Under Management | 12 | 8? (The VC) |
+http://imm.co.kr/company/ | Company| Number of Private Equity Funds Under Management | 13 | 12? (The VC) |
+http://imm.co.kr/company/ | Company| Our History content is a bit outdated and vague | - | - |
+http://imm.co.kr/company/ | Company| Our History content UI/design is not user friendly | - | - |
 http://imm.co.kr/value/ | Value| - | - | - |
 http://imm.co.kr/team/ | Team| - | - | - |
 http://imm.co.kr/portfolio/ | Portfolio| - | - | - |
