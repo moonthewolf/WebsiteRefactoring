@@ -34,23 +34,3 @@ http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 
 http://imm.co.kr/value/ | Value| - | - | - |
 http://imm.co.kr/team/ | Team| - | - | - |
 http://imm.co.kr/portfolio/ | Portfolio| - | - | - |
-
-<br>
-    1. Home
-    <br>
-    2. Company
-    <br>
-    Profile: 
-    <br>
-        1. Number of investment professionals
-        <br> 
-            Current Website: 15
-        <br>
-            Should be: 20 (Counted from Teams Page)
-    <br>
-        2. Number of Current Portfolio Companies
-        <br>
-            Current Website: 74
-        <br>
-            Should be: 113 (Counted from Portfolio Page, filtered)
-
