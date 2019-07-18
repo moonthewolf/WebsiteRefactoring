@@ -22,8 +22,6 @@ Difficulty  | High | Medium | Low
 ---
 <h3>IMM Investments</h3>
 
----
-
 URL  | NAME | ISSUE | CURRENT | PROPOSED | Difficulty | Priority
 --- | --- | --- | --- | --- | --- | ---
 http://imm.co.kr/ | Home| - | - | - | - | - |
