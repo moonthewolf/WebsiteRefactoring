@@ -29,7 +29,8 @@ Difficulty  | High | Medium | Low
 URL  | NAME | ISSUE | CURRENT | PROPOSED
 --- | --- | --- | --- | ---
 http://imm.co.kr/ | Home| - | - | - |
-http://imm.co.kr/company/ | Company| Number of investment professionals <br><br> Number of current portfolio companies |15 <br><br> 74 | 20 (Counted from Teams Page) <br> 113 (Counted from Portfolio Page, filtered) |
+http://imm.co.kr/company/ | Company| Number of investment professionals | 15 | 20 (Counted from Teams Page) |
+http://imm.co.kr/company/ | Company| Number of Current Portfolio Companies | 74 | 113 (Counted from Portfolio Page, filtered) |
 http://imm.co.kr/value/ | Value| - | - | - |
 http://imm.co.kr/team/ | Team| - | - | - |
 http://imm.co.kr/portfolio/ | Portfolio| - | - | - |
